@@ -1,21 +1,21 @@
 # Streamlit Test
 
-Este proyecto tiene como objetivo realizar pruebas y comprender cómo funciona la biblioteca [Streamlit](https://streamlit.io/), una herramienta poderosa para crear aplicaciones web interactivas directamente desde scripts de Python.
+This project aims to experiment with and understand how the [Streamlit](https://streamlit.io/) library works. Streamlit is a powerful tool for building interactive web applications directly from Python scripts.
 
 ---
 
-## Instalación
+## Installation
 
-1. Clona este repositorio en tu máquina local:
+1. Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/lruizap/streamlit-test.git
    cd streamlit-test
    ```
 
-2. Asegúrate de tener Python 3.7 o superior instalado en tu sistema.
+2. Make sure you have Python 3.7 or higher installed on your system.
 
-3. Instala las dependencias necesarias utilizando el archivo `requirements.txt`. Puedes hacerlo ejecutando el siguiente comando:
+3. Install the required dependencies using the `requirements.txt` file. Run the following command:
 
    ```bash
    pip install -r requirements.txt
@@ -23,10 +23,12 @@ Este proyecto tiene como objetivo realizar pruebas y comprender cómo funciona l
 
 ---
 
-Con esta configuración básica, estarás listo para comenzar a explorar y realizar pruebas con Streamlit.
+With this basic setup, you'll be ready to start exploring and experimenting with Streamlit.
 
-Para ejecutar la aplicación, usa:
+To run the application, use:
 
 ```bash
-streamlit run helloWorld.py
+streamlit run app.py
 ```
+
+Explore, experiment, and have fun with Streamlit! 🚀
