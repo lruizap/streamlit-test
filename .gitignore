@@ -1,4 +1,6 @@
 .venv
 
+secrets.toml
+
 __pycache__
 
