@@ -28,7 +28,7 @@ With this basic setup, you'll be ready to start exploring and experimenting with
 To run the application, use:
 
 ```bash
-streamlit run app.py
+streamlit run helloWorld.py
 ```
 
 Explore, experiment, and have fun with Streamlit! 🚀
