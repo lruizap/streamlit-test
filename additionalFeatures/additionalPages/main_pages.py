@@ -20,4 +20,4 @@ That’s it! The main_page.py script will now correspond to the main page of you
 st.markdown("# Main page 🎈")
 st.sidebar.markdown("# Main page 🎈")
 
-st.image("../img/mpa-main-concepts.gif")
+st.image("../../img/mpa-main-concepts.gif")
